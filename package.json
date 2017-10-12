@@ -1,0 +1,21 @@
+{
+  "name": "my-ang-app",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "test": "ng test",
+    "lint": "ng lint",
+    "e2e": "ng e2e"
+  },
+  "private": true,
+  "dependencies": {
+    "axios": "^0.16.2",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1",
+    "express-ws": "^3.0.0",
+    "node-pty": "^0.7.1"
+  }
+}
